@@ -1,0 +1,4 @@
+/home/ydkj/plc_test/build/CMakeFiles/edit_cache.dir
+/home/ydkj/plc_test/build/CMakeFiles/plctest_node.dir
+/home/ydkj/plc_test/build/CMakeFiles/rebuild_cache.dir
+/home/ydkj/plc_test/build/CMakeFiles/plctest.dir

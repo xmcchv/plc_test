@@ -1,0 +1,2 @@
+/usr/bin/ar qc libplctest.a  CMakeFiles/plctest.dir/src/plc/snap7.cpp.o CMakeFiles/plctest.dir/src/plc/plc_reader.cpp.o
+/usr/bin/ranlib libplctest.a

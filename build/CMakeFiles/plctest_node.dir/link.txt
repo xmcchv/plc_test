@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall -std=c++17 -O3 -DNDEBUG  -rdynamic CMakeFiles/plctest_node.dir/main_node.cpp.o  -o plctest_node   -L/home/ydkj/plc_test/lib  -Wl,-rpath,/home/ydkj/plc_test/lib libplctest.a -lsnap7 /usr/local/lib/libyaml-cpp.a -lboost_system -lpthread 
